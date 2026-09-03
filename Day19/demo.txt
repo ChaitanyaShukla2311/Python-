@@ -1,0 +1,2 @@
+this is line number 0this is line number 1this is line number 2this is line number 3this is line number 4this is written by write()
+this is added later
